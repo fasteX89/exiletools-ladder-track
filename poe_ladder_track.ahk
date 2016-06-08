@@ -61,8 +61,8 @@ If (A_AhkVersion <= "1.1.15") {
 ; **************************************************************
 ; PLEASE MAKE SURE TO SET THESE!
 
-LeagueName := "standard"       ; Change the value in quotes to the proper league, see http://api.exiletools.com/ladder for names
-CharName := "pwxrf"           ; Change the value in quotes to your character's name
+LeagueName := "prophecy"       ; Change the value in quotes to the proper league, see http://api.exiletools.com/ladder for names
+CharName := "fasteX_la"           ; Change the value in quotes to your character's name
                               ; Hardcore players: It will only show ALIVE character data
 							  ;
 							  ; You can test this in your browser by going to:
